@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oiiiieeeee sou uma aluna aprendendo no Alura! 👋
 
 <!--
 **00001124094490sp/00001124094490sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
